@@ -1,0 +1,6 @@
+{
+  "name": "agent-progress",
+  "version": "0.1.0",
+  "description": "A progress bar above the prompt tracking every subagent in use",
+  "types": "./types/index.d.ts"
+}
