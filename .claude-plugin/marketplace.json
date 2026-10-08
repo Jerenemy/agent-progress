@@ -1,0 +1,11 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "Jerenemy" },
+  "plugins": [
+    {
+      "name": "agent-progress",
+      "source": "./agent-progress",
+      "description": "A progress bar above the prompt tracking every subagent in use"
+    }
+  ]
+}
